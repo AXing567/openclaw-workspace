@@ -1,0 +1,25 @@
+# OpenClaw Tools 文档本地镜像
+
+- index: /zh-CN/tools
+- agent-send: /zh-CN/tools/agent-send
+- apply-patch: /zh-CN/tools/apply-patch
+- browser: /zh-CN/tools/browser
+- browser-linux-troubleshooting: /zh-CN/tools/browser-linux-troubleshooting
+- browser-login: /zh-CN/tools/browser-login
+- clawhub: /zh-CN/tools/clawhub
+- creating-skills: /zh-CN/tools/creating-skills
+- elevated: /zh-CN/tools/elevated
+- exec: /zh-CN/tools/exec
+- exec-approvals: /zh-CN/tools/exec-approvals
+- firecrawl: /zh-CN/tools/firecrawl
+- llm-task: /zh-CN/tools/llm-task
+- lobster: /zh-CN/tools/lobster
+- multi-agent-sandbox-tools: /zh-CN/tools/multi-agent-sandbox-tools
+- plugin: /zh-CN/tools/plugin
+- reactions: /zh-CN/tools/reactions
+- skills: /zh-CN/tools/skills
+- skills-config: /zh-CN/tools/skills-config
+- slash-commands: /zh-CN/tools/slash-commands
+- subagents: /zh-CN/tools/subagents
+- thinking: /zh-CN/tools/thinking
+- web: /zh-CN/tools/web

@@ -1,0 +1,19 @@
+{
+  "name": "xhs-user-finder",
+  "version": "1.0.0",
+  "description": "Semi-automated Xiaohongshu user finder MVP",
+  "type": "module",
+  "bin": {
+    "xhs-user-finder": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node ./src/cli.js",
+    "find": "node ./src/cli.js find",
+    "status:render": "python3 ../progress-reporter/render_progress.py"
+  },
+  "dependencies": {
+    "crawlee": "^3.16.0",
+    "playwright": "^1.58.2",
+    "zod": "^4.1.11"
+  }
+}

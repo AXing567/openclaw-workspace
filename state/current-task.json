@@ -1,0 +1,9 @@
+{
+  "task": "系统学习 OpenClaw 中文文档并沉淀关键知识",
+  "status": "running",
+  "phase": "范围梳理",
+  "done": ["已将 tg-report 切换到监督心跳方向"],
+  "current": "从中文文档目录与入口页开始，梳理知识结构、优先级和沉淀位置",
+  "blocked": null,
+  "updatedAt": "2026-03-20T09:52:30+08:00"
+}

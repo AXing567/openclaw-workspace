@@ -1,0 +1,8 @@
+.openclaw/
+__pycache__/
+.DS_Store
+projects/xhs-user-finder/node_modules/
+projects/xhs-user-finder/.browser-cache/
+projects/xhs-user-finder/.deb-cache/
+projects/xhs-user-finder/.local-libs/
+tmp/

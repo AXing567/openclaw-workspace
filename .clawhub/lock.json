@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1774403375472
+    },
+    "local-web-search-skill": {
+      "version": "0.1.0",
+      "installedAt": 1774403923045
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1774404065150
+    },
+    "xiaohongshu-search-summarizer": {
+      "version": "1.0.3",
+      "installedAt": 1774531647026
+    }
+  }
+}
